@@ -1,0 +1,9 @@
+﻿  EntranceIvent.cpp
+  Tickets.cpp
+C:\Awesome Stuff\University\APnP\theature\theature\Tickets.h(87,21): warning C4018: <: несоответствие типов со знаком и без знака
+  theature.cpp
+C:\Awesome Stuff\University\APnP\theature\theature\Tickets.h(87,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Awesome Stuff\University\APnP\theature\theature\Tickets.h(87,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Awesome Stuff\University\APnP\theature\theature\theature.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+  theature.vcxproj -> C:\Awesome Stuff\University\APnP\theature\Debug\theature.exe
